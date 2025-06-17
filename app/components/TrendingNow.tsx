@@ -1,7 +1,7 @@
 import React from "react";
 
 const TrendingNow = () => {
-  return <section></section>;
+  return <section>TrendingNow section</section>;
 };
 
 export default TrendingNow;
